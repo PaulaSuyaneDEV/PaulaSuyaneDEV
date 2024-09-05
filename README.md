@@ -1,10 +1,9 @@
 ### Olá😁 seja  bem vindo(a) ao meu github😊
+### JAVA DEVELOPER 💻
 
 
 ###
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-s-68a465179/)[![Blog](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/your-work/)
-
-### JAVA FULL STACK DEVELOPER 💻 
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-s-68a465179/)
 
 ### 🔗 LINGUAGENS 🔗
 ![Skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Skills](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![Skills](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
