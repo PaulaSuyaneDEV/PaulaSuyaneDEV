@@ -15,7 +15,7 @@ Currently interested in:
 
 -----------------------------------------------------------------
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,7 +44,7 @@ Currently interested in:
 
 -----------------------------------------------------------------
 
-# 🧠 Areas of Interest
+#  Areas of Interest
 
 - Artificial Intelligence
 - Machine Learning
@@ -54,13 +54,13 @@ Currently interested in:
 
 -----------------------------------------------------------------
 
-# 📌 Featured Projects
+#  Featured Projects
 
 🔹 IQALAB
 
 -----------------------------------------------------------------
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulaSuyaneDEV&show_icons=true&theme=tokyonight)
 
@@ -68,7 +68,7 @@ Currently interested in:
 
 -----------------------------------------------------------------
 
-# 📫 Contact
+#  Contact
 
 - LinkedIn: [Paula Suyane](https://www.linkedin.com/in/paula-s-68a465179/)
 - Email: [paulasuyane.dev@gmail.com](mailto:paulasuyane.dev@gmail.com)
